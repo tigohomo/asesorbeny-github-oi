@@ -72,9 +72,7 @@
 
                 </div>
 
-    </section>
-
-</body>
+   
 |
 
 </html>
